@@ -1,0 +1,22 @@
+{
+    "name": "phpxmn/helper",
+    "description": "助手类库",
+    "require": {
+    },
+    "require-dev": {
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "phpxmn\\helper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PHP小码农",
+            "email": "734681085@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
