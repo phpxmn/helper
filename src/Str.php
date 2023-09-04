@@ -6,4 +6,9 @@ class Str
     {
         return 'helloWorld'.time();
     }
+
+    public function test()
+    {
+        return 'test';
+    }
 }
